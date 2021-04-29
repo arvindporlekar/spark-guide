@@ -56,7 +56,7 @@
                   <target>1.8</target>
                     <archive>
                         <manifest>
-                            <mainClass>org.arvind.java.MainReduceFunctionClass</mainClass>
+                            <mainClass>org.arvind.java.spark.core.rdd.MainReduceFunctionClass</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
